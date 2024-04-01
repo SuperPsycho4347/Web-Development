@@ -64,14 +64,11 @@
     padding: 20px;
 }
 
-<<<<<<< HEAD
-=======
 /* Flex Columns */
 .flex-columns.flex-reverse .row {
     flex-direction: row-reverse;
 }
 
->>>>>>> c01d61959bb1d5d9a554d1ccd1cb7ed92134840a
 .flex-columns .row {
     display: flex;
     flex-direction: row;
