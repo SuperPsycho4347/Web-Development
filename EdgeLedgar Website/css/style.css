@@ -110,6 +110,11 @@ img {
     z-index: 10;
 }
 
+.hero.blog {
+    background: url('../home/blog.jpg');
+    height: 30vh;
+}
+
 /* Icons */
 .icons {
     padding: 30px;
@@ -189,7 +194,7 @@ img {
     margin-right: 30px;
 }
 
-/* Footer */
+/* Mobile */
 @media(max-width: 768px) {
     .navbar {
         flex-direction: column;
